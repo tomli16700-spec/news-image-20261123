@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261123/tomli16700-spec/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/tomli16700-spec/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-A one-image summary of the world's news of Monday 23 November 2026: the COP31 climate summit collapses in Antalya with no deal on fossil fuels, and markets roar as Nvidia reinstates Jensen Huang — NVDA +31% on Monday after crashing to a 52-week low on Friday, a whipsaw that cost short sellers $12.2B — plus 24 more stories from the day, from the S&P 500's +4.7% jump to gold, Bitcoin, oil, and a Ukrainian drone strike that sank a Russian warship.
+A one-image summary of the world's news of Monday 23 November 2026: the COP31 climate summit collapses in Antalya with no deal on fossil fuels, and markets roar as Nvidia reinstates Jensen Huang — NVDA +31% on Monday after crashing to a 52-week low on Friday, a whipsaw that cost short sellers $12.2B — plus 48 more stories from the day, from the S&P 500's +4.7% jump and the Democrats' 258-seat House majority to gold, Bitcoin, oil, and a Ukrainian drone strike that sank a Russian warship. 50 stories in all.
 
 ## Run it
 
